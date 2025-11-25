@@ -119,6 +119,18 @@ Examples:
 - Zig
 - Algol
 - Awk
+- CLIPS
+- Crystal
+- Elm
+- Forth
+- GAMS
+- Hack
+- Icon
+- Inform
+- Ring
+- Nim
+- Odin
+- Carbon
 - More coming soon...
 
 ---
