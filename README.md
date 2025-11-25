@@ -21,7 +21,7 @@ Hello, World!
 
 File names follow this format:
 
-hello.<extension>
+hello.(extension)
 
 Examples:
 
