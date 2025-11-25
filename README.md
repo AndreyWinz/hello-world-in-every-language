@@ -36,24 +36,73 @@ Examples:
 
 ## 📚 Languages Included (so far)
 
-- Python
-- JavaScript
-- C
-- C++
-- Java
-- Rust
-- Go
-- Ruby
-- PHP
-- Swift
-- Kotlin
-- Bash
-- Lua
-- Perl
-- Haskell
-- TypeScript
-- Brainfuck (yes really)
+- Ada
+- AngularJS
 - Assembly
+- BackboneJS
+- Bash
+- Basic
+- Bootstrap
+- Brainfuck (yes really)
+- Bulma CSS
+- Bun
+- C#
+- C++
+- C
+- COBOL
+- Clojure
+- CoffeeScript
+- CommonLisp
+- D
+- Dart
+- Deno
+- EJS
+- Elixir
+- Erlang
+- F#
+- Fortran
+- Foundation
+- Go
+- Groovy
+- HTML
+- Haskell
+- JShell
+- Java
+- JavaScript
+- Kotlin
+- Lua
+- MATLAB
+- Materialize CSS
+- Milligram CSS
+- NodeJS
+- OCaml
+- Object Pascal
+- Objective-C
+- Octave
+- PHP
+- Paper CSS
+- Pasca
+- Perl
+- Prolog
+- Python (3 & 2)
+- R
+- Racket
+- ReactJS
+- Ruby
+- Rust
+- SQL (many different versions & dialects)
+- Scala
+- Semantic UI
+- Skeleton CSS
+- Swift
+- TCL
+- Text  (yes just plain text)
+- TypeScript
+- UIKit
+- Visual Basic
+- VueJS
+- jQuery
+- Shell Script (sh)
 - More coming soon...
 
 ---
