@@ -103,6 +103,22 @@ Examples:
 - VueJS
 - jQuery
 - Shell Script (sh)
+- SAS
+- Julia
+- ActionScript
+- AppleScript
+- Visual FoxPro
+- ABAP
+- Solidity
+- PowerShell
+- V
+- CHILL
+- VBScript
+- ML
+- Apex
+- Zig
+- Algol
+- Awk
 - More coming soon...
 
 ---
