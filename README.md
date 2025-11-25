@@ -65,7 +65,7 @@ Rules:
 
 1. File must print “Hello, World!”
 2. Keep it small.
-3. Add it in the right folder or root.
+3. Add it in the right folder (or create a new folder for new languages).
 4. Add your language to the list above.
 5. If you want, add the same language's hello world but in a different file format (still has to be the language's file format!!!) like "hello.rb" and "hello.ruby" are welcome to be two different files!
 
