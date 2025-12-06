@@ -1,0 +1,31 @@
+
+<html>
+  <head>
+    <title>(,)</title>
+    <link rel=stylesheet href=style.css>
+  </head>
+  <body>
+    <script>
+window.onerror = (msg, url, line, col, error) => {
+  alert(error.stack);
+  alert("Error at " + url + " line " + line + " col " + col);
+  alert(msg);
+}
+    </script>
+    <h1>(,)</h1>
+    <button onclick="run()" id=runButton>Run</button>
+    <h3>flags</h3>
+    <input id=flags oninput="edit()">
+    <h3 id=codespot>code</h3>
+    <input id=code oninput="edit()">
+    <h3>stdin</h3>
+    <textarea id=stdin oninput="edit()"></textarea>
+    <h3 id=out>stdout</h3>
+    <p id=stdout>
+    <h3 id=err>stderr</h3>
+    <p id=stderr>
+    <h3><a href="https://esolangs.org/wiki/(,)">Spec</a></a></h3>
+    <br><br>
+    <script src = "script.js"></script>
+  </body>
+</html>
