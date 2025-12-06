@@ -1,0 +1,70 @@
+;; prints "32"
+|;n*84
+
+;; prints "15"
+\;nf
+\|
+
+;; prints "2 5 28 2.25 3"
+>11+nv
+/o*84<
+\72-n\
+/o*84<
+\47*n\
+/o*84<
+\94,n\
+/o*84<
+\f4%n;
+
+;; prints nothing, but should have three stacks [[10, 11, 12], [13, 14, 15], [0, 9, 8]]
+abcdef0983[D3[DII;
+
+;; prints nothing, and ends with the stack in the same order. Splits it and collapse it several times, though.
+abcdef0983[D3[DIID]I];
+
+;; prints "5011012", or what should be read as "50", "110", and "12"
+c22g\
+/g32/
+\nnn;
+  2
+
+;; prints "1615"
+f:&&1+nn;
+
+;; prints "10"
+abcdefr&r3[D&n;
+
+;; prints nothing, but after running cb.box should have two rows, and [1][0] == 'b'
+10772**01p;
+
+;; prints whatever your current time is
+s":"m":"hnonon;
+
+;; prints "15" after 10 seconds
+aa*Sfn;
+
+;; prints the string in the initial stack
+    r\
+o;!?l<
+
+;; Test Call and Ret instructions
+<;n&C10&a
+R
+
+;; Test dive and rise instructions
+"Hello, world!"r>Ool?u!|;
+
+;; Basic test of the fisherman
+"Hi"r`;
+  l?!`o
+
+;; demo of fisherman's behavior when the IP movement is up/down
+"hi"`
+    `roo!/<
+         "
+         e
+         y
+         b
+          
+         "
+    ;oooo`
