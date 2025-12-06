@@ -1,0 +1,5 @@
+ &hello
+ hello _ h,e,l,l,o,_,w,o,r,l,d r print :Multi-definition doesn't move while you're writing;
+ print _ * .halt *
+ print * * .outb *
+ $print .outb * * r
