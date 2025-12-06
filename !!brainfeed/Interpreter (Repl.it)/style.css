@@ -1,0 +1,40 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+  margin-top: 10vh;
+}
+
+.header {
+  display: block;
+  font-size: 30px;
+  margin: auto;
+}
+
+textarea {
+  height: 20vh;
+  width: calc(10% + 30vh);
+  display: block;
+  margin: auto;
+}
+
+button {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  padding: 10px 15px;
+  font-size: 20px;
+}
+
+div {
+  background: #ebebeb;
+  border: 2px solid #d6d6d6;
+  padding: 10px;
+  width: calc(10% + 30vh);
+  margin: auto;
+  text-align: left;
+}
+
+hr {
+  margin-left: 10%;
+  margin-right: 10%;
+}
