@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JS *&gt;&lt;&gt; Interpreter</title>
+        <meta name="author" content="Apis Necros" />
+        <meta name="description" content="An interpreter for the starfish esolang written in JavaScript" />
+        <meta name="keywords" content="*><>,starfish,esolang,esoteric languages,javascript interpreter" />
+        <meta name="canonical" content="http://starfish.vzqk50.com/starfish/" />
+
+        <meta name="og:description" content="An interpreter for the starfish esolang written in JavaScript" />
+        <meta name="og:type" content="website" />
+        <meta name="og:url" content="http://starfish.vzqk50.com/starfish/" />
+
+        <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+        <script src="./starfish.js"></script>
+    </head>
+    <body class="p-8 bg-gray-300">
+        <div class="grid grid-cols-3 gap-10">
+            <div class="col-span-3">
+                <input type="text" id="stackInit" class="inline-block w-full p-2 border border-black rounded-sm" placeholder="Initial Stack" />
+            </div>
+            <div>
+                <textarea id="script" class="w-full font-mono border border-black" rows="20" placeholder="11+n;">11+n;</textarea>
+            </div>
+            <div class="flex justify-center items-center">
+                <button class="p-4 border border-black bg-blue-300 rounded" onclick="cb.ParseCodeBox()">Run</button>
+            </div>
+            <div>
+                <textarea id="output" class="w-full bg-white font-mono border border-black" rows="20" disabled></textarea>
+            </div>
+        </div>
+        <div class="col-span-3">
+            <div>
+                <input id="debug-stacks" type="checkbox" />
+                <label for="debug-stacks">Debug: Display Stack</label>
+            </div> 
+            <div>
+                <input id="debug-code-box" type="checkbox" />
+                <label for="debug-code-box">Debug: Display Code Box</label>
+            </div> 
+        </div>
+        <!-- <canvas class="w-full h-full"></canvas> -->
+        <script>
+            const cb = new CodeBox("script", "stackInit", "output");
+        </script>
+    </body>
+</html>
