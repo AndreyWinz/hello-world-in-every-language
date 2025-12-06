@@ -1,0 +1,49 @@
+; string declaration
+    cite "Hello, World"
+
+    ; helper variables
+a:  cite 0
+b:  cite 1
+c:  cite 2
+e:  cite eval(stop)
+f:  cite eval(h-g)
+i:  cite 1
+j:  cite eval(g)
+l:  cite eval(k+2-h+g)
+m:  cite eval(d)
+
+    ; copy current character to the variable a
+g:  copy    1,a,b
+
+    ; evaluate: a = ( a == 0 ) ? b : 0;
+    norm    =,a,b
+
+    ; if a was 0, a stop instruction will be copied to m-indirect. 
+    ; m defaults to label d; and will be increased by the total
+    ; codesize once the code gets duplicated
+    copy    e,^m,a
+
+    ; output current character
+d:  output  1
+
+    ; i is the read position, and it is increased by two, because
+    ; every "cite" instruction takes up two cells, so i now points
+    ; to the next character
+    add     c,i
+
+    ; patch code originating from labels g/d (the "current characters")
+    copy    i,g,b
+    copy    i,d,b
+
+    ; correct helper variables by whole code size
+    add     f,j
+    add     f,m
+    add     f,l
+
+    ; l "points" to the second argument of the next copy instruction
+    ; and is replaced by the actual new PC position [just corrected]
+    copy    j,^l,b
+
+    ; copy whole code to next instruction
+k:  copy    eval(g),0,f
+h:
