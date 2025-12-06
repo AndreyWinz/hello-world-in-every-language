@@ -1,0 +1,22 @@
+{
+  "name": "js-starfish",
+  "version": "0.9.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "npx postcss ./src/css/main.css -o ./static/css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.vzqk50.com:ApisNecros/js-starfish.git"
+  },
+  "author": "Apis Necros",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.22",
+    "postcss-cli": "^10.1.0",
+    "tailwindcss": "^3.3.1"
+  }
+}
