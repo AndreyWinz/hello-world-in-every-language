@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MooTools Hello World</title>
+    <!-- Include the MooTools Core library from a CDN -->
+    <script type="text/javascript" src="cdnjs.cloudflare.com"></script>
+    <script type="text/javascript">
+        // Wait for the DOM to be ready before running the script
+        window.addEvent('domready', function() {
+            // Option 1: Display an alert
+            alert("Hello World! (from MooTools alert)");
+
+            // Option 2: Inject text into an existing paragraph
+            $('text-container').appendText("Hello World! (from MooTools code!)");
+        });
+    </script>
+</head>
+<body>
+    <p id="text-container"></p>
+</body>
+</html>
