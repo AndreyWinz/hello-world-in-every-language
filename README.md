@@ -144,6 +144,7 @@ Examples:
 - Hack
 - Haskell
 - INTERCAL
+- IBM RPG
 - Icon
 - Images (JPEG/JPG, PNG, SVG, etc)
 - J
