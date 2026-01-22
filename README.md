@@ -36,101 +36,208 @@ Examples:
 
 ## 📚 Languages Included (so far)
 
+- !!!Batch (v1.3 & v1.5)
+- !!Fuck
+- !!brainfeed
+- !
+- !@#$%^&*()_+
+- !English
+- !Romanian
+- !/*
+- !aoQ>:
+- !itoe
+- !한국어
+- #b
+- #hell
+- $!
+- $+-?
+- $
+- "$_$"
+- ( ͡° ͜ʖ ͡°)fuck
+- (())
+- ((
+- ():;+-#?!
+- (?!)
+- (HA)pple waITING
+- (P™TM™)™
+- (SIASL)²
+- (Visual) FoxPro
+- *><>
+- *lang
+- ++C
+- ++brainfuck++
+- ++Ↄ
+- ,*"':;!?.+_
+- ,,,
+- ,
+- --C-=C-C--
+- --yay
+- -C++
+- -Output
+- .((o))
+- .:
+- .chef
+- .easy
+- .gertrude
+- .yacuabll
+- ;)
+- ? (Ask, None-Ask)
+- A-Frame
+- ABAP
+- AGSPL
+- APL
+- ActionScript
 - Ada
+- Algol
 - AngularJS
+- Apex
+- AppleScript
+- ArnoldC
 - Assembly
+- Awk
+- B4X
 - BackboneJS
 - Bash
 - Basic
+- Befunge
 - Bootstrap
-- Brainfuck (yes really)
+- Brainfuck
 - Bulma CSS
 - Bun
 - C#
 - C++
 - C
+- CHICKEN Scheme
+- CHILL
+- CLIPS
 - COBOL
+- Carbon
+- Chef
+- Chicken
 - Clojure
 - CoffeeScript
 - CommonLisp
+- Crystal
 - D
 - Dart
 - Deno
+- Docker
 - EJS
 - Elixir
+- Elm
+- Enact
+- Enyo
 - Erlang
+- Express.js
 - F#
+- Fastify
+- Forth
 - Fortran
 - Foundation
+- FrainBuck--
+- GAMS
+- GatsbyJS
 - Go
+- Govnom Srat' Pomojet Letat'
 - Groovy
 - HTML
+- Hack
 - Haskell
+- INTERCAL
+- Icon
+- Images (JPEG/JPG, PNG, SVG, etc)
+- J
 - JShell
 - Java
+- Java2K
 - JavaScript
+- Julia
+- Justif & Recursion
 - Kotlin
+- LOLCODE
+- Laravel
 - Lua
 - MATLAB
+- ML
+- Malbolge
 - Materialize CSS
+- MeteorJS
 - Milligram CSS
+- MooTools
+- NONE
+- NestJS
+- Next.js
+- Nim
 - NodeJS
+- None,
 - OCaml
-- Object Pascal
+- Object Pascal (Delphi-Free Pascal)
 - Objective-C
 - Octave
+- Odin
+- Omgrofl
+- Ook!
+- OpenUI5
 - PHP
 - Paper CSS
-- Pasca
+- Pascal
 - Perl
+- Piet
+- PostScript
+- PowerShell
 - Prolog
-- Python (3 & 2)
+- PureScript
+- Python (PyPy3, Python 2, Python 3)
 - R
 - Racket
+- React Router
 - ReactJS
+- Ring
+- Rockstar
 - Ruby
 - Rust
-- SQL (many different versions & dialects)
+- SAS
+- SMITH#
+- SPL
+- SQL
+- Sails.js
 - Scala
+- Scheme
+- Scratch
 - Semantic UI
 - Skeleton CSS
+- Smalltalk
+- Solidity
+- Sorted!
+- Space
+- Svelte
 - Swift
-- TCL
-- Text  (yes just plain text)
+- Tcl
+- Text (CSV, PDF, etc)
+- Thue
+- TrumpScript
 - TypeScript
 - UIKit
-- Visual Basic
-- VueJS
-- jQuery
-- Shell Script (sh)
-- SAS
-- Julia
-- ActionScript
-- AppleScript
-- Visual FoxPro
-- ABAP
-- Solidity
-- PowerShell
+- Unbaptized
+- Unlambda
 - V
-- CHILL
 - VBScript
-- ML
-- Apex
+- Velato
+- Video (MP4, GIF)
+- Visual Basic (VB.NET)
+- VueJS
+- Whitespace
 - Zig
-- Algol
-- Awk
-- CLIPS
-- Crystal
-- Elm
-- Forth
-- GAMS
-- Hack
-- Icon
-- Inform
-- Ring
-- Nim
-- Odin
-- Carbon
+- []
+- ///
+- /path
+- ^English
+- jQuery
+- sh (Shell Script)
+- ʘ
+- ∞ bits, ℵ0 Bytes
+- :..:
+- ��
 - More coming soon...
 
 ---
