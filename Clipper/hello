@@ -1,0 +1,3 @@
+Procedure Main       //Or Proc Main, same result.
+    ? "Hello World!"
+Return               //Or Retu, same result.
