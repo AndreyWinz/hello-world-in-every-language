@@ -82,12 +82,15 @@ Examples:
 - .yacuabll
 - ;)
 - ? (Ask, None-Ask)
+- A# (.NET)
 - A-Frame
 - ABAP
 - AGSPL
 - APL
 - ActionScript
 - Ada
+- Agda
+- Aldor
 - Algol
 - AngularJS
 - Apex
@@ -96,6 +99,7 @@ Examples:
 - Assembly
 - Awk
 - B4X
+- BETA
 - BackboneJS
 - Bash
 - Basic
@@ -114,6 +118,7 @@ Examples:
 - Carbon
 - Chef
 - Chicken
+- Clipper
 - Clojure
 - CoffeeScript
 - CommonLisp
@@ -136,13 +141,16 @@ Examples:
 - Foundation
 - FrainBuck--
 - GAMS
+- GNU Smalltalk
 - GatsbyJS
 - Go
 - Govnom Srat' Pomojet Letat'
 - Groovy
 - HTML
 - Hack
+- Harbour
 - Haskell
+- HolyC
 - INTERCAL
 - IBM RPG
 - Icon
@@ -157,11 +165,13 @@ Examples:
 - Kotlin
 - LOLCODE
 - Laravel
+- Logtalk
 - Lua
 - MATLAB
 - ML
 - Malbolge
 - Materialize CSS
+- Mercury
 - MeteorJS
 - Milligram CSS
 - MooTools
@@ -206,6 +216,7 @@ Examples:
 - Scheme
 - Scratch
 - Semantic UI
+- Simula
 - Skeleton CSS
 - Smalltalk
 - Solidity
