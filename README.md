@@ -55,7 +55,7 @@ Examples:
 | $! | 1 | Yes | Python |  |
 | $+-? | 1 | Yes | Python |  |
 | $ | 1 | Yes | Lisp |  |
-| $_$ | 1 | Yes | Perl |  |
+| '$_$' | 1 | Yes | Perl |  |
 | ( ͡° ͜ʖ ͡°)fuck | 2 | No |  | Normal & Alt |
 | (()) | 0 | Yes | Python |  |
 | (( | 1 | No |  |  |
