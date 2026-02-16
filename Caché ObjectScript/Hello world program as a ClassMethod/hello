@@ -1,0 +1,9 @@
+Class User.Helloworld
+{
+  ClassMethod HelloWorld()
+  {
+    // Write to console
+    Write "Hello World"
+    Quit
+  }
+}
