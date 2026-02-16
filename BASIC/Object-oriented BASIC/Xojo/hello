@@ -1,0 +1,2 @@
+// Display a simple message box that says "Hello, World!"
+MessageBox("Hello, World!")
