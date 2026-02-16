@@ -36,221 +36,40 @@ Examples:
 
 ## 📚 Languages Included (so far)
 
-- !!!Batch (v1.3 & v1.5)
-- !!Fuck
-- !!brainfeed
-- !
-- !@#$%^&*()_+
-- !English
-- !Romanian
-- !/*
-- !aoQ>:
-- !itoe
-- !한국어
-- #b
-- #hell
-- $!
-- $+-?
-- $
-- "$_$"
-- ( ͡° ͜ʖ ͡°)fuck
-- (())
-- ((
-- ():;+-#?!
-- (?!)
-- (HA)pple waITING
-- (P™TM™)™
-- (SIASL)²
-- (Visual) FoxPro
-- *><>
-- *lang
-- ++C
-- ++brainfuck++
-- ++Ↄ
-- ,*"':;!?.+_
-- ,,,
-- ,
-- --C-=C-C--
-- --yay
-- -C++
-- -Output
-- .((o))
-- .:
-- .chef
-- .easy
-- .gertrude
-- .yacuabll
-- ;)
-- ? (Ask, None-Ask)
-- A# (.NET)
-- A-Frame
-- ABAP
-- AGSPL
-- APL
-- ActionScript
-- Ada
-- Agda
-- Aldor
-- Algol
-- AngularJS
-- Apex
-- AppleScript
-- ArnoldC
-- Assembly
-- Awk
-- B4X
-- BETA
-- BackboneJS
-- Bash
-- Basic
-- Befunge
-- Bootstrap
-- Brainfuck
-- Bulma CSS
-- Bun
-- C#
-- C++
-- C
-- CHICKEN Scheme
-- CHILL
-- CLIPS
-- COBOL
-- Carbon
-- Chef
-- Chicken
-- Clipper
-- Clojure
-- CoffeeScript
-- CommonLisp
-- Crystal
-- D
-- Dart
-- Deno
-- Docker
-- EJS
-- Elixir
-- Elm
-- Enact
-- Enyo
-- Erlang
-- Express.js
-- F#
-- Fastify
-- Forth
-- Fortran
-- Foundation
-- FrainBuck--
-- GAMS
-- GNU Smalltalk
-- GatsbyJS
-- Go
-- Govnom Srat' Pomojet Letat'
-- Groovy
-- HTML
-- Hack
-- Harbour
-- Haskell
-- HolyC
-- INTERCAL
-- IBM RPG
-- Icon
-- Images (JPEG/JPG, PNG, SVG, etc)
-- J
-- JShell
-- Java
-- Java2K
-- JavaScript
-- Julia
-- Justif & Recursion
-- Kotlin
-- LOLCODE
-- Laravel
-- Logtalk
-- Lua
-- MATLAB
-- ML
-- Malbolge
-- Materialize CSS
-- Mercury
-- MeteorJS
-- Milligram CSS
-- MooTools
-- NONE
-- NestJS
-- Next.js
-- Nim
-- NodeJS
-- None,
-- OCaml
-- Object Pascal (Delphi-Free Pascal)
-- Objective-C
-- Octave
-- Odin
-- Omgrofl
-- Ook!
-- OpenUI5
-- PHP
-- Paper CSS
-- Pascal
-- Perl
-- Piet
-- PostScript
-- PowerShell
-- Prolog
-- PureScript
-- Python (PyPy3, Python 2, Python 3)
-- R
-- Racket
-- React Router
-- ReactJS
-- Ring
-- Rockstar
-- Ruby
-- Rust
-- SAS
-- SMITH#
-- SPL
-- SQL
-- Sails.js
-- Scala
-- Scheme
-- Scratch
-- Semantic UI
-- Simula
-- Skeleton CSS
-- Smalltalk
-- Solidity
-- Sorted!
-- Space
-- Svelte
-- Swift
-- Tcl
-- Text (CSV, PDF, etc)
-- Thue
-- TrumpScript
-- TypeScript
-- UIKit
-- Unbaptized
-- Unlambda
-- V
-- VBScript
-- Velato
-- Video (MP4, GIF)
-- Visual Basic (VB.NET)
-- VueJS
-- Whitespace
-- Zig
-- []
-- ///
-- /path
-- ^English
-- jQuery
-- sh (Shell Script)
-- ʘ
-- ∞ bits, ℵ0 Bytes
-- :..:
-- ��
-- More coming soon...
+
+| Language Name | Amount of "hello" files | Interpreter present? | Interpreter Language | Variations |
+|---|---|---|---|---|
+| !!!Batch | 2 | Yes | Python | v1.3 & v1.5 |
+| !!Fuck | 2 | Yes | Lisp & Python | Normal & Linefeeds |
+| !!brainfeed | 1 | Yes | JavaScript & Repl.it |  |
+| ! | 1 | Yes | C++ & Java |  |
+| !@#$%^&*()_+ | 2 | Yes | D | Normal & No letters at all |
+| !English | 1 | No |  |  |
+| !Romanian | 1 | No |  |  |
+| !/* | 2 | No |  | Normal & No whitespaces |
+| !aoQ>: | 1 | No |  |  |
+| !itoe | 1 | No |  |  |
+| !한국어 | 1 | No |  |  |
+| #b | 2 | Yes | Lisp & Python | Normal & Crazy |
+| #hell | 1 | No |  |  |
+| $! | 1 | Yes | Python |  |
+| $+-? | 1 | Yes | Python |  |
+| $ | 1 | Yes | Lisp |  |
+| $_$ | 1 | Yes | Perl |  |
+| ( ͡° ͜ʖ ͡°)fuck | 2 | No |  | Normal & Alt |
+| (()) | 0 | Yes | Python |  |
+| (( | 1 | No |  |  |
+| ():;+-#?! | 1 | Yes | JavaScript |  |
+| (?!) | 1 | Yes | Lisp |  |
+| (HA)pple waITING | 1 | No |  |  |
+| (P™TM™)™ | 1 | No |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
 
 ---
 
@@ -260,7 +79,7 @@ Please add a new language!
 Rules:
 
 1. File must print “Hello, World!”
-2. Keep it small.
+2. Keep it whichever size you want.
 3. Add it in the right folder (or create a new folder for new languages).
 4. Add your language to the list above.
 5. If you want, add the same language's hello world but in a different file format (still has to be the language's file format!!!) like "hello.rb" and "hello.ruby" are welcome to be two different files!
