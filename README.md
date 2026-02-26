@@ -232,17 +232,17 @@ Examples:
 | Scala | 1 | No |  |  |
 | Scheme | 1 | No |  |  |
 | Scratch | 2 | No |  | SB2 & SB3 |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Semantic UI | 1 (consisting of 3 files) | No |  | Consists of 3 files: HTML; JS; CSS |
+| Simula | 1 | No |  |  |
+| Skeleton CSS | 1 (consisting of 3 files) | No |  | Consists of 3 files: HTML; JS; CSS |
+| Smalltalk | 1 | No |  |  |
+| Solidity | 1 | No |  |  |
+| Sorted! | 1 | No |  |  |
+| Space | 1 | No |  |  |
+| Svelte | 1 | No |  |  |
+| Swift | 1 | No |  |  |
+| Tcl | 1 | No |  |  |
+| Text | 18 | No |  | CSV, EPUB, Markdown, Microsoft Excel, Microsoft PowerPoint, OpenDocument, PDF, Raw Text (raw and .txt), RTF (.rtf and .rtfd), TSV, webarchive, Word 97, 2003, 2007|
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
