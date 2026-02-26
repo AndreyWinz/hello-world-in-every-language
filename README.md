@@ -174,64 +174,64 @@ Examples:
 | Icon | 1 | No |  |  |
 | Image | 3 | No |  | JPEG/JPG; PNG; SVG |
 | J | 1 | No |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Java | 1 | No |  |  |
+| Java2K | 1 | No |  |  |
+| JavaScript | 1 | No |  |  |
+| Julia | 1 | No |  |  |
+| Justif & Recursion | 1 | No |  |  |
+| Kotlin | 1 | No |  |  |
+| LOLCODE | 1 | No |  |  |
+| Laravel | 1 | No |  |  |
+| Logtalk | 1 | No |  |  |
+| Lua | 1 | No |  |  |
+| MATLAB | 1 | No |  |  |
+| ML | 1 | No |  |  |
+| MUMPS | 1 | No |  |  |
+| Malbolge | 1 | No |  |  |
+| Materialize CSS | 1 (consisting of 3 files) | No |  | Consists of 3 files: HTML; JS; CSS |
+| Mercury | 1 | No |  |  |
+| MeteorJS | 1 (consisting of 4 files) | No |  | Consists of 4 files: .meteor; JS; CSS; ;HTML |
+| Milligram CSS | 1 (consisting of 3 files) | No |  | Consists of 3 files: HTML; JS; CSS |
+| MooTools | 1 | No |  |  |
+| NONE | 1 | No |  |  |
+| NestJS | 1 (consisting of 7 files, src directory [14 files], and test directory [2 files]) | No |  | Consists of: tsconfig.json; tsconfig.build.json; package.json; package-lock.json; nest-cli.json; .prettierrc; .eslintrc.js, src directory, and test directory |
+| Next.js | 2 | No |  | JS & TSX (identical though) |
+| Nim | 1 | No |  |  |
+| NodeJS | 1 | No |  |  |
+| None, | 1 | No |  |  |
+| OCaml | 1 | No |  |  |
+| Object Pascal (Delphi-Free Pascal) | 1 | No |  |  |
+| Objective-C | 1 | No |  |  |
+| Octave | 1 | No |  |  |
+| Odin | 1 | No |  |  |
+| Omgrofl | 1 | No |  |  |
+| Ook! | 1 | No |  |  |
+| OpenUI5 | 1 (consisting of 2 files) | No |  | Consists of 2 files: HTML; JS |
+| PHP | 1 | No |  |  |
+| Paper CSS | 1 (consisting of 3 files) | No |  | Consists of 3 files: HTML; JS; CSS |
+| Pascal | 1 | No |  |  |
+| Perl | 1 | No |  |  |
+| Piet | 1 | No |  |  |
+| PostScript | 1 | No |  |  |
+| Prolog | 1 | No |  |  |
+| PureScript | 1 | No |  |  |
+| Python | 3 | No |  | PyPy3, Python2, Python3 |
+| R | 1 | No |  |  |
+| Racket | 1 | No |  |  |
+| React Router | 1 (consisting of 2 files) | No |  | Consists of 2 files: JSX; setup.sh |
+| ReactJS | 1 (consisting of 4 files) | No |  | Consists of 4 files: App.jsx; HTML; index.jsx; JSON |
+| Ring | 1 | No |  |  |
+| Rockstar | 1 | No |  |  |
+| Ruby | 1 | No |  |  |
+| Rust | 1 | No |  |  |
+| SAS | 1 | No |  |  |
+| SMITH# | 1 | No |  |  |
+| SPL | 1 | No |  |  |
+| SQL | 6 | No |  | General ANSI SQL (Standard), Microsoft SQL Server (T-SQL), MySQL - MariaDB, Oracle PL - SQL, PostgreSQL, SQLite |
+| Sails.js | 1 (consisting of directories api/controllers and config, each containing one file) | No |  | Consists of 2 files: api/controllers/HelloController.js & config/routes.js |
+| Scala | 1 | No |  |  |
+| Scheme | 1 | No |  |  |
+| Scratch | 2 | No |  | SB2 & SB3 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
