@@ -243,14 +243,39 @@ Examples:
 | Swift | 1 | No |  |  |
 | Tcl | 1 | No |  |  |
 | Text | 18 | No |  | CSV, EPUB, Markdown, Microsoft Excel, Microsoft PowerPoint, OpenDocument, PDF, Raw Text (raw and .txt), RTF (.rtf and .rtfd), TSV, webarchive, Word 97, 2003, 2007|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-
+| Thue | 1 | No |  |  |
+| TrumpScript | 1 | No |  |  |
+| TypeScript | 1 | No |  |  |
+| UIKit | 1 (consisting of 3 files) | No |  | Consists of 3 files: HTML; JS; CSS |
+| Unbabtized | 1 | Yes | Python |  |
+| Unlambda | 1 | No |  |  |
+| V | 1 | No |  |  |
+| VBScript | 1 | No |  |  |
+| Velato | 1 | No |  |  |
+| Video | 2 | No |  | GIF & MP4 |
+| VueJS | 1 (consisting of 4 files) | No |  | Consists of 3 files: Vue; HTML; JS; CSS |
+| Whitespace | 1 | No |  |  |
+| Zig | 1 | No |  |  |
+| [] | 1 | No |  |  |
+| /// | 4 | Yes | Haskell, Perl, Python | Four different variations |
+| /path | 1 | Yes | Python |  |
+| ^English | 1 | No |  |  |
+| jQuery | 1 (consisting of 3 files) | No |  | Consists of 3 files: HTML; JS; CSS |
+| sh (shell scripts) | 6 | No |  | BASH, Bourne Shell, C shell (csh), JShell, PowerShell (PS1), Z shell (zsh) |
+| ʘ | 1 | No |  |  |
+| Μλ (MiLambda) | 1 | No |  |  |
+| قلب | 1 | No |  |  |
+| کوردیی ناوەندی | 1 | No |  |  |
+| ∞ bits, ℵ0 Bytes | 1 | No |  |  |
+| なでしこ | 1 | No |  |  |
+| ひまわり | 1 | No |  |  |
+| 上海话 | 1 | No |  |  |
+| 文言 | 1 | No |  |  |
+| 易语言 | 1 | No |  |  |
+| 火星文 | 1 | No |  |  |
+| 한국어 | 1 | No |  |  |
+| :..: | 1 | Yes | JavaScript |  |
+| �� | 1 | No |  |  |
 
 ---
 
