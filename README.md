@@ -109,71 +109,71 @@ Examples:
 | AssemblyScript | 1 (consisting of 4 files) | No |  | Consists of 4 files: HTML; JS; TS; JSON |
 | AutoLISP | 1 | No |  |  |
 | Awk | 1 | No |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| B | 1 | No |  |  |
+| B4X | 1 | No |  |  |
+| BASIC | 20 | No |  | Blitz BASIC, Gambas, PureBasic, Visual BASIC (.NET)(Console Application, Simple, VB.NET, Visual BASIC 6, Windows Forms Application), Xojo, BBC BASIC, COMAL, Liberty BASIC, PowerBASIC (PBCC, PBWin), QB64, QuickBASIC, SuperBASIC, True BASIC, VSI BASIC, Unstructured BASIC |
+| BCPL | 1 | No |  |  |
+| BETA | 1 | No |  |  |
+| BackboneJS | 1 (consisting of 2 files) | No |  | Consists of 2 files: HTML; JS |
+| Ballerina | 1 | No |  |  |
+| Batchfile | 1 | No |  |  |
+| Befunge | 1 | No |  |  |
+| Boo | 1 | No |  |  |
+| Bootstrap | 1 (consisting of 3 files) | No |  | Consists of 3 files: HTML; JS; CSS |
+| Brainfuck | 1 | No |  |  |
+| Bulma CSS | 1 (consisting of 3 files) | No |  | Consists of 3 files: HTML; JS; CSS |
+| Bun | 1 | No |  |  |
+| C# | 1 | No |  |  |
+| C++ | 1 | No |  |  |
+| C | 1 | No |  |  |
+| CHICKEN Scheme | 1 | No |  |  |
+| CHILL | 1 | No |  |  |
+| CLIPS | 1 | No |  |  |
+| COBOL | 1 | No |  |  |
+| C/AL | 1 | No |  |  |
+| Caché ObjectScript | 2 | No |  | As a ClassMethod & as a routine |
+| Carbon | 1 | No |  |  |
+| Chef | 1 | No |  |  |
+| Chicken | 1 | No |  |  |
+| Clipper | 1 | No |  |  |
+| Clojure | 1 | No |  |  |
+| CoffeeScript | 1 | No |  |  |
+| CommonLisp | 1 | No |  |  |
+| Crystal | 1 | No |  |  |
+| D | 1 | No |  |  |
+| Dart | 1 | No |  |  |
+| Deno | 1 | No |  |  |
+| Docker | 1 | No |  |  |
+| EJS | 1 | No |  |  |
+| Eiffel | 1 | No |  |  |
+| Elixir | 1 | No |  |  |
+| Elm | 1 | No |  |  |
+| Enact | 1 | No |  |  |
+| Enyo | 2 | No |  | HTML & JS |
+| Erlang | 1 | No |  |  |
+| Express.js | 1 | No |  |  |
+| F# | 1 | No |  |  |
+| Fastify | 2 | No |  | 2 variations |
+| Forth | 1 | No |  |  |
+| Fortran | 1 | No |  |  |
+| Foundation | 1 (consists of 3 files) | No |  | Consisting of 3 files: HTML; JS; CSS |
+| FrainBuck-- | 1 (Is only hi, since hello is too long for one file) | No |  | Says Hi instead of Hello |
+| GAMS | 1 | No |  |  |
+| GNU Smalltalk | 1 | No |  |  |
+| GatsbyJS | 1 (consists of 3 files, and a directory containing 1 more file) | No |  | Consists of 4 files: src/pages/hello.js; gatsby-config.js; package-lock.json; package.json |
+| Go (golang) | 1 | No |  |  |
+| Govnom Srat' Pomojet Letat' | 1 | No |  |  |
+| Groovy | 1 | No |  |  |
+| HTML | 1 (consisting of 3 files) | No |  | Consists of 3 files: HTML; JS; CSS |
+| Hack | 1 | No |  |  |
+| Harbour | 1 | No |  |  |
+| Haskell | 1 | No |  |  |
+| HolyC | 1 | No |  |  |
+| IBM RPG | 1 | No |  |  |
+| INTERCAL | 1 | No |  |  |
+| Icon | 1 | No |  |  |
+| Image | 3 | No |  | JPEG/JPG; PNG; SVG |
+| J | 1 | No |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
