@@ -114,6 +114,7 @@ Examples:
 | BASIC | 20 | No |  | Blitz BASIC, Gambas, PureBasic, Visual BASIC (.NET)(Console Application, Simple, VB.NET, Visual BASIC 6, Windows Forms Application), Xojo, BBC BASIC, COMAL, Liberty BASIC, PowerBASIC (PBCC, PBWin), QB64, QuickBASIC, SuperBASIC, True BASIC, VSI BASIC, Unstructured BASIC |
 | BCPL | 1 | No |  |  |
 | BETA | 1 | No |  |  |
+| BQN | 2 | No |  |  |
 | BackboneJS | 1 (consisting of 2 files) | No |  | Consists of 2 files: HTML; JS |
 | Ballerina | 1 | No |  |  |
 | Batchfile | 1 | No |  |  |
@@ -197,6 +198,7 @@ Examples:
 | NestJS | 1 (consisting of 7 files, src directory [14 files], and test directory [2 files]) | No |  | Consists of: tsconfig.json; tsconfig.build.json; package.json; package-lock.json; nest-cli.json; .prettierrc; .eslintrc.js, src directory, and test directory |
 | Next.js | 2 | No |  | JS & TSX (identical though) |
 | Nim | 1 | No |  |  |
+| Nix | 1 | No |  |  |
 | NodeJS | 1 | No |  |  |
 | None, | 1 | No |  |  |
 | OCaml | 1 | No |  |  |
