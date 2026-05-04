@@ -181,6 +181,7 @@ Examples:
 | Julia | 1 | No |  |  |
 | Justif & Recursion | 1 | No |  |  |
 | Kotlin | 1 | No |  |  |
+| LFE | 1 | No |  |  |
 | LOLCODE | 1 | No |  |  |
 | Laravel | 1 | No |  |  |
 | Logtalk | 1 | No |  |  |
