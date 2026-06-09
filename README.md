@@ -77,6 +77,10 @@ A fun collection of “Hello World” programs written in as many programming la
 
 # Hello World in Every Language
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/AndreyWinz/hello-world-in-every-language)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndreyWinz/hello-world-in-every-language)
+![GitHub repo size](https://img.shields.io/github/repo-size/AndreyWinz/hello-world-in-every-language)
+
 A gloriously unnecessary repository containing **Hello World** programs written in as many programming languages as possible.
 
 Why?  
