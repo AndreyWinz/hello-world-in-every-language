@@ -380,8 +380,9 @@ PRs welcome from beginners, experts, and interdimensional beings.
 MIT License — do whatever you want with it.
 
 ---
-## P.S.
-I do these projects purely for fun, and I decided to upload them to GitHub to share with others. I am not asking or begging for a donation, but if you want to appreciate my work, feel free to donate! You can also send your GitHub username in the "Note" section of the donation page, so I can give you a shout-out in the next repository. Stay tuned for more!
+## Buy me a Coffee
+If you think I deserve a little gift to support me and my creations, feel free to buy me a coffee (not the actual website, but a Revolut payment link)!
 
-This is my Revolut Payment Link:
-[Thank you so much!](https://revolut.me/andreygdl9)
+Please include your GitHub username in the "Note" section so I can add you to the contributor list on my profile!
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://revolut.me/andreygdl9)
