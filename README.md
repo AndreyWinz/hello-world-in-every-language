@@ -77,6 +77,8 @@ A fun collection of “Hello World” programs written in as many programming la
 
 # Hello World in Every Language
 
+[![Status](https://img.shields.io/badge/status-passively%20maintained-yellow.svg)]()
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/AndreyWinz/hello-world-in-every-language)
 ![GitHub Repo stars](https://img.shields.io/github/stars/AndreyWinz/hello-world-in-every-language)
 ![GitHub repo size](https://img.shields.io/github/repo-size/AndreyWinz/hello-world-in-every-language)
