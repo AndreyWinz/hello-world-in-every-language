@@ -307,6 +307,7 @@ Examples:
 | React Router | 1 (consisting of 2 files) | No |  | Consists of 2 files: JSX; setup.sh |
 | ReactJS | 1 (consisting of 4 files) | No |  | Consists of 4 files: App.jsx; HTML; index.jsx; JSON |
 | Ring | 1 | No |  |  |
+| Rivulet | 2 | No |  | Normal & Compact |
 | Rockstar | 1 | No |  |  |
 | Ruby | 1 | No |  |  |
 | Rust | 1 | No |  |  |
