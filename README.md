@@ -185,6 +185,7 @@ Examples:
 | Arc | 1 | No |  |  |
 | ArkTS | 1 | No |  |  |
 | ArnoldC | 1 | No |  |  |
+| AsciiDots | 1 | No |  |  |
 | Assembly | 1 | No |  | General Assembly |
 | AssemblyScript | 1 (consisting of 4 files) | No |  | Consists of 4 files: HTML; JS; TS; JSON |
 | AutoLISP | 1 | No |  |  |
@@ -204,6 +205,8 @@ Examples:
 | Brainfuck | 1 | No |  |  |
 | Bulma CSS | 1 (consisting of 3 files) | No |  | Consists of 3 files: HTML; JS; CSS |
 | Bun | 1 | No |  |  |
+| Bussin | 1 | No |  |  |
+| Bussin X | 1 | No |  |  |
 | C# | 1 | No |  |  |
 | C++ | 1 | No |  |  |
 | C | 1 | No |  |  |
