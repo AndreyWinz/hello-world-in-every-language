@@ -320,6 +320,7 @@ Examples:
 | Scheme | 1 | No |  |  |
 | Scratch | 2 | No |  | SB2 & SB3 |
 | Semantic UI | 1 (consisting of 3 files) | No |  | Consists of 3 files: HTML; JS; CSS |
+| Shapes | 1 | Yes | Python |  |
 | Simula | 1 | No |  |  |
 | Skeleton CSS | 1 (consisting of 3 files) | No |  | Consists of 3 files: HTML; JS; CSS |
 | Smalltalk | 1 | No |  |  |
