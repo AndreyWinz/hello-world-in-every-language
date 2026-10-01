@@ -304,6 +304,7 @@ Examples:
 | Python | 3 | No |  | PyPy3, Python2, Python3 |
 | Q# | 1 | No |  |  |
 | Q | 1 | No |  |  |
+| QLang | 1 | No |  |  |
 | R | 1 | No |  |  |
 | Racket | 1 | No |  |  |
 | React Router | 1 (consisting of 2 files) | No |  | Consists of 2 files: JSX; setup.sh |
