@@ -334,7 +334,7 @@ Examples:
 | Svelte | 1 | No |  |  |
 | Swift | 1 | No |  |  |
 | Tcl | 1 | No |  |  |
-| Text | 18 | No |  | CSV, EPUB, Markdown, Microsoft Excel, Microsoft PowerPoint, OpenDocument, PDF, Raw Text (raw and .txt), RTF (.rtf and .rtfd), TSV, webarchive, Word 97, 2003, 2007|
+| Text | 18 | No |  | CSV, EPUB, Markdown, Microsoft Excel, Microsoft PowerPoint, OpenDocument, PDF, Raw Text (raw and .txt), RTF (.rtf and .rtfd), TSV, webarchive, Word 97, 2003, 2007, Binary, Decimal, Hexadecimal, Octal, various hashing algorithms |
 | Thue | 1 | No |  |  |
 | TrumpScript | 1 | No |  |  |
 | TypeScript | 1 | No |  |  |
@@ -380,7 +380,7 @@ Rules:
 2. Keep it whichever size you want.
 3. Add it in the right folder (or create a new folder for new languages).
 4. Add your language to the list above.
-5. If you want, add the same language's hello world but in a different file format (still has to be the language's file format!!!) like "hello.rb" and "hello.ruby" are welcome to be two different files!
+5. If you want, add the same language's hello world but in a different file format (it still has to be the language's file format!!!), like "hello.rb" and "hello.ruby" are welcome to be two different files!
 
 PRs welcome from beginners, experts, and interdimensional beings.
 
