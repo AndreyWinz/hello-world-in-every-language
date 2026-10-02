@@ -352,7 +352,7 @@ Examples:
 | /path | 1 | Yes | Python |  |
 | ^English | 1 | No |  |  |
 | jQuery | 1 (consisting of 3 files) | No |  | Consists of 3 files: HTML; JS; CSS |
-| sh (shell scripts) | 6 | No |  | BASH, Bourne Shell, C shell (csh), JShell, PowerShell (PS1), Z shell (zsh) |
+| sh (shell scripts) | 6 | No |  | BASH, Bourne Shell, C shell (csh), Debian Almquist Shell (dash), JShell, KornShell (ksh), MirBSD Korn Shell (mksh), PowerShell (PS1), TENEX C Shell (tcsh), Z shell (zsh) |
 | ʘ | 1 | No |  |  |
 | Μλ (MiLambda) | 1 | No |  |  |
 | قلب | 1 | No |  |  |
