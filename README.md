@@ -334,7 +334,7 @@ Examples:
 | Svelte | 1 | No |  |  |
 | Swift | 1 | No |  |  |
 | Tcl | 1 | No |  |  |
-| Text | 18 | No |  | CSV, EPUB, Markdown, Microsoft Excel, Microsoft PowerPoint, OpenDocument, PDF, Raw Text (raw and .txt), RTF (.rtf and .rtfd), TSV, webarchive, Word 97, 2003, 2007, Binary, Decimal, Hexadecimal, Octal, various hashing algorithms |
+| Text | 60 | No |  | CSV, EPUB, Markdown, Microsoft Excel, Microsoft PowerPoint, OpenDocument, PDF, Raw Text (raw and .txt), RTF (.rtf and .rtfd), TSV, webarchive, Word 97, 2003, 2007, Binary, Decimal, Hexadecimal, Octal, various hashing algorithms |
 | Thue | 1 | No |  |  |
 | TrumpScript | 1 | No |  |  |
 | TypeScript | 1 | No |  |  |
