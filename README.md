@@ -393,7 +393,7 @@ MIT License — do whatever you want with it.
 
 ---
 ## Buy me a Coffee
-If you think I deserve a little gift to support me and my creations, feel free to buy me a coffee (not the actual website, but a Revolut payment link)!
+If you think I deserve a little gift to support me and my creations, feel free to buy me a coffee!
 
 Please include your GitHub username in the "Note" section so I can add you to the contributor list on my profile!
 
