@@ -179,6 +179,7 @@ Examples:
 | Algol | 2 | No |  | Algol 60 & Algol 68 |
 | AmbientTalk | 1 | No |  |  |
 | Amega E | 1 | No |  |  |
+| Amma | 2 | No |  |  |
 | AngularJS | 1 (consisting of 3 files) | No |  | Consists of 3 files: HTML; TS; JSON |
 | Apex | 1 | No |  |  |
 | AppleScript | 1 | No |  |  |
