@@ -232,6 +232,7 @@ Examples:
 | EJS | 1 | No |  |  |
 | Eiffel | 1 | No |  |  |
 | Elixir | 1 | No |  |  |
+| Elle | 1 | No |  |  |
 | Elm | 1 | No |  |  |
 | Enact | 1 | No |  |  |
 | Enyo | 2 | No |  | HTML & JS |
